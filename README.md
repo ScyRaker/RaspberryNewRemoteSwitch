@@ -13,7 +13,7 @@ Execute the following command
 `sudo apt-get install wiringpi`
 
 ## Use as non-root user
-If you want to use this library as a non-root user, then you need to add that user to the gpio group: 
+If you want to use this library as a non-root user, then you need to add that user to the gpio group:  
 `sudo usermod -a -G gpio <username>`
 
 ## How to compile examples
